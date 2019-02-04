@@ -30,3 +30,10 @@ In the other terminal you should also be in the directory where the clone was ma
 ```user <repo-directory> $ ./bashsample.sh```
 
 You can view the files being written to by simply clicking on them from the file explorer.
+
+## Testing
+Some ways to make sure this program is functioning as expected. 
+
+_If you run the bash script and press 'Enter' rather than inputting the requested data, it should repeat the request._
+
+_The program will only continue when the requested data is entered. If you do not have any further data to add you can simply exit with ```Ctrl+C```._
