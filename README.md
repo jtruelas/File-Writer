@@ -32,7 +32,7 @@ In the other terminal you should also be in the directory where the clone was ma
 You can view the files being written to by simply clicking on them from the file explorer.
 
 ## Testing
-Some ways to make sure this program is functioning as expected. 
+How to ensure the program is functioning as expected: 
 
 _If you run the bash script and press 'Enter' rather than inputting the requested data, it should repeat the request._
 
